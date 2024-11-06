@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
 
-# NAME : MANOJ KUMAR S
+## NAME : MANOJ KUMAR S
 
-# REGISTER NO: 212223240082
+## REGISTER NO: 212223240082
 
 # Aim : 
 
